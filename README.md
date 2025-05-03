@@ -1,5 +1,3 @@
-**HR-ANALYTICS-DASHBOARD
-**
 🚀 Unveiling My New HR Analytics Dashboard! 🚀
 
 Ever wondered what drives employee attrition in an organization? I’ve developed a comprehensive HR Analytics Dashboard that reveals key insights into workforce trends, helping HR professionals make data-driven decisions.
